@@ -25,7 +25,7 @@ public class Printer {
 //		return print1;
 //	}
 	
-	static void println1(int value) {
+	void println1(int value) {
 		System.out.println(value);
 	}
 	
