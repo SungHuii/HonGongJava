@@ -11,14 +11,13 @@ import java.io.FileReader;
 //		FileReader fr = new FileReader(filePath);
 //		BufferedReader br = new BufferedReader(fr);
 //		
-//		String line = br.readLine();		
-//		for(int i = 0; i < line.length(); i++ ) {
+//		for(int i = 0; i < br.read(); i++ ) {
 //			String line2 = br.readLine();
 //			System.out.println(i+": "+line2);
 //		}
+//		
 //	}
 //}
-
 public class AddLineNumberExample {
 
 	public static void main(String[] args) throws Exception{
